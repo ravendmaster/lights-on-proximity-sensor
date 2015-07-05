@@ -46,7 +46,7 @@
             <NotGenerated>0</NotGenerated>
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
-          <OutputDirectory>lcomp Configuration\</OutputDirectory>
+          <OutputDirectory>.\lights-on-proximity-sensor Configuration\</OutputDirectory>
           <OutputName>lcomp Configuration</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
