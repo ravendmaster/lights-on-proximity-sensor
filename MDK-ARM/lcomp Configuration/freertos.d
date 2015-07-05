@@ -1,0 +1,11 @@
+lcomp configuration\freertos.o: ..\Src\freertos.c
+lcomp configuration\freertos.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+lcomp configuration\freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+lcomp configuration\freertos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+lcomp configuration\freertos.o: ..\Inc\FreeRTOSConfig.h
+lcomp configuration\freertos.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+lcomp configuration\freertos.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+lcomp configuration\freertos.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM3\portmacro.h
+lcomp configuration\freertos.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+lcomp configuration\freertos.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+lcomp configuration\freertos.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h

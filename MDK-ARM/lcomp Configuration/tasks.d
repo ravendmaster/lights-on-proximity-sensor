@@ -1,0 +1,15 @@
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\tasks.c
+lcomp configuration\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+lcomp configuration\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+lcomp configuration\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+lcomp configuration\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+lcomp configuration\tasks.o: ..\Inc\FreeRTOSConfig.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM3\portmacro.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\timers.h
+lcomp configuration\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\StackMacros.h
